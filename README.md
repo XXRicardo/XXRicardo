@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I'm [ricardo]  
 
-<!--
-**XXRicardo/XXRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An undergraduate student at **Huazhong University of Science and Technology** (HUST), majoring in [Cybersecurity]. Diving into the world of tech, I'm exploring areas like **software development**, **network security**. Eager to deepen my skills and contribute to cool projects along the way!  
 
-Here are some ideas to get you started:
+In my free time, I love tinkering with code, watching tech talks, and getting lost in sci - fi novels. I believe every line of code and every new concept is a step toward understanding how technology shapes our world—like building blocks for a digital future.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills and Tools  
+💻 **Software** — Python, C/C++,
+🔍 **Research** — IOT in Cybersecurity 
+🛡️ **Security** — Vulnerability Detection、Secure Coding
+
+
+### Today's Quote  
+> "In software, we build not just programs, but bridges between ideas and reality—one line of code at a time."  
+> *— Inspired by endless debugging sessions*  
+
+
+Feel free to connect if you’re into tech chats, project collaborations, or sharing cool learning resources! 🚀  

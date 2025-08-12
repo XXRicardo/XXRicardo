@@ -6,7 +6,7 @@ In my free time, I love tinkering with code, watching tech talks, and getting lo
 
 
 ### Skills and Tools  
-💻 **Software** — Python, C/C++,
+💻 **Software** — Python, C/C++
 🔍 **Research** — IOT in Cybersecurity 
 🛡️ **Security** — Vulnerability Detection、Secure Coding
 
